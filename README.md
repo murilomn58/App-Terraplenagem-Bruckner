@@ -2,6 +2,7 @@
 # Terraplenagem — LP + Diagrama de Brückner
 
 ## Como usar
+Deve-se criar um ambiente virtual de preferência (venv)
 1. `pip install -r requirements.txt`
 2. `streamlit run app.py`
 
